@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import CountVectorizer
 
-class Parts2Project():
+class ProjRec():
     def __init__(self):
         # Read data.csv into pandas dataframe
         data = pd.read_csv('data.csv',  delimiter=',')
@@ -33,8 +33,8 @@ class Parts2Project():
 
 
 if __name__ == '__main__':
-    # Instance of class Parts2Project
-    pp = Parts2Project()
+    # Instance of class ProjRec
+    pp = ProjRec()
     # Ask user for input of parts
     parts_taken = input("Parts taken from the inventory:")
     # Prediction
