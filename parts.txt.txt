@@ -1,0 +1,58 @@
+1. 12v dc motor
+2. 24v pancake wheel
+3. 3.5mm audio-in jack
+4. 3.5mm audio-out jack
+5. 3d printed parts
+6. acquarian pump
+7. arduino mega 2650
+8. arduino uno
+9. attiny85
+10. aws
+11. cap
+12. car wiper motor
+13. chipkit max32
+14. cp2012
+15. cpu heatsink
+16. dac0808
+17. dc fan
+18. dht11
+19. ds18b20
+20. dynamodb
+21. electrical heating appliance
+22. esp8266
+23. evothings viewer
+24. evothings application
+25. fsr sensor
+26. hc05
+27. hc06
+28. ide
+29. keypad
+30. lcd
+31. lm35
+32. lm386
+33. lualoader
+34. mma7361l
+35. motor driver
+36. pic18f4550
+37. rabbit ears
+38. rf receiver
+39. rf transmitter
+40. servo arm
+41. servo motor
+42. servo wheels
+43. sg909g
+44. sharp gp2y0a2
+45. sigfox arduino sheild
+46. smartphone
+47. solarcell
+48. solenoid
+49. solid state relay control
+50. sound source with outputjack
+51. speaker
+52. srf05
+53. um402
+54. vacuum pump
+55. xl12706-d01
+56. xl1276-d01
+57. zigbee receiver
+58. zigbee shield
